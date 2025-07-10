@@ -1,6 +1,6 @@
-# Monad Faucet Claimer
+#babikau
 
-Script untuk klaim miniapp Monad faucet otomatis via Farcaster.
+halo memek.
 
 ## Cara pakai
 
